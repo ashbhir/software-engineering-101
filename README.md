@@ -10,11 +10,7 @@
 
 ### Computer Networks
 
-### Design Patterns
-
-### Code Architecture
-
-### Testing
+### Software Testing
 
 ### Compiler Design
 
