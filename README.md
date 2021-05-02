@@ -14,7 +14,7 @@
 
 ### Compiler Design
 
-### [Design Patterns](#Design-Patterns)
+### [Design Patterns](#design-patterns-1)
 
 ### [Agile Philosophy](#Agile-Manifesto)
 
